@@ -18,6 +18,6 @@ if speak !== speak.upcase
   return "HUH?! SPEAK UP, SONNY!"
 else if speak.upcase
   return "NO, NOT SINCE 1938!"
-love == (I LOVE YOu GRANDMA)  
+if love == I LOVE YOu GRANDMA
 else love == "I LOVE YOU TOO PUMPKIN!"
 end
