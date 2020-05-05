@@ -8,11 +8,3 @@ def speak_to_grandma(speak)
   end
 end
 
-def speak_to_grandma(speak)
-if speak !== speak.upcase
-  return "HUH?! SPEAK UP, SONNY!"
-else if speak.upcase
-  return "NO, NOT SINCE 1938!"
-if love == I LOVE YOu GRANDMA
-else love == "I LOVE YOU TOO PUMPKIN!"
-end
